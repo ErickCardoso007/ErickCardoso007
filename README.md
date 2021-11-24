@@ -1,9 +1,11 @@
-# Olá, eu sou o Erick Cardoso!
+# Olá, eu sou o Erick Cardoso! 
 
 - 🖥 Estou trabalhando front-end
 - 📚 Estudando react
 - 🤝Contate-me: erickcardosofront@gmail.com
 - 🧍🏽‍♂ Pronome: ele/dele
+
+
 <br />
 <br />
 <div >
@@ -36,3 +38,6 @@
   <a href="https://www.linkedin.com/in/erick-cardoso-287005202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  
 </div>
+<br/>
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ErickCardoso007&label=Profile%20views&color=0e75b6&style=flat" alt="erickcardoso007" /> </p>
