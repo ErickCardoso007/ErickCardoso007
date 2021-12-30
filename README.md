@@ -40,4 +40,4 @@
 </div>
 <br/>
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ErickCardoso007&label=Profile%20views&color=0e75b6&style=flat" alt="erickcardoso007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
