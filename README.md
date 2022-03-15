@@ -1,6 +1,6 @@
 # Olá, eu sou o Erick Cardoso! 
 
-- 🖥 Estou trabalhando front-end júnior
+- 🖥 Estou focado em aprendizagem front-end
 - 📚 Estudando JavaScript atualmente.
 - 🤝Contate-me: erickcardosofront@gmail.com
 - 🧍🏽‍♂ Pronome: ele/dele
