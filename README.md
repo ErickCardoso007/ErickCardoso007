@@ -1,9 +1,14 @@
-# Olá, eu sou o Erick Cardoso! 
+<div>
+<img align="right" width="440" height="700" right="0px" src="https://i.imgur.com/jJJRSB0.png">
+  
+# Hello, my name is Erick Cardoso 👨🏿‍💻
 
-- 🖥 Estou focado em aprendizagem front-end
-- 📚 Estudando atualmente: JavaScript
-- 🤝Contate-me: erickcardosofront@gmail.com
-- 🧍🏽‍♂ Pronome: ele/dele
+- 🐱‍💻Explore new technologies, techniques and solutions.
+- 🐱‍💻 Currently studying: JavaScript
+- 🐱‍💻 Development of projects to practice the knowledge learned
+- 🧍🏽‍♂ pronoun: He/Him
+
+
 
 
 <br />
@@ -15,21 +20,40 @@
   <br />
   <br />
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="ErickC-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Erick-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Erick-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Erick-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-</div>
-  
-  ##
- 
-<div> 
 
-  <a href="https://www.instagram.com/erickcardosozz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:erickcardosofront"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/erick-cardoso-287005202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+
+ 
+
+### commit statistics: 
+<div>
+    <img alt="<img alt="Erick Cardoso'zz Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ErickCardoso007&custom_title=Erick%20Cardoso%27zz%20Contribution%20Graph&bg_color=121214&color=737380&line=28203e&point=8257e5&hide_border=true">
+  </div> 
+                             
+</br>
+</br>
+</br>
+<div>
+    
+##### 🛠 Hard Skills
+      
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;        
+  </div>
+
+<div>
+                                      
+##### 🤝 contact me:
+                                      
+  <p align="left" margin-left="10px">
+  <a href="erickcardosofront@gmail.com">
+    <img src="https://img.shields.io/badge/erickcardosofront@gmail.com-6633cc?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:erickcardosofront@gmail.com" style="max-width:100%;">
+  </a>
+  <a href="https://www.linkedin.com/in/erick-cardoso-287005202/" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Erick%20Cardoso-6633cc?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/rafaeldcmartins" style="max-width:100%;">
+  </a>
+</p> 
  
 </div>
-<br/>
-![Snake animation](https://github.com/ErickCardoso007/ErickCardoso007/blob/output/github-contribution-grid-snake.svg)
+</div>
