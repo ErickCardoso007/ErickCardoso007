@@ -4,8 +4,8 @@
 # Hello, my name is Erick Cardoso 👨🏿‍💻
 
 - 🐱‍💻Explore new technologies, techniques and solutions.
-- 🐱‍💻 Currently studying: JavaScript
-- 🐱‍💻 Development of projects to practice the knowledge learned
+- 🐱‍💻 Currently studying: JavaScript.
+- 🐱‍💻 Development of projects to practice the knowledge learned.
 - 🧍🏽‍♂ pronoun: He/Him
 
 
@@ -25,6 +25,7 @@
  
 
 ### commit statistics: 
+  
 <div>
     <img alt="<img alt="Erick Cardoso'zz Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ErickCardoso007&custom_title=Erick%20Cardoso%27zz%20Contribution%20Graph&bg_color=121214&color=737380&line=28203e&point=8257e5&hide_border=true">
   </div> 
