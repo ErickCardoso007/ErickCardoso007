@@ -42,3 +42,4 @@
 
 
 
+<img src="https://github.com/ErickCardoso007/ErickCardoso007/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
