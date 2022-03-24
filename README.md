@@ -15,8 +15,8 @@
 <br />
 <div >
   <a href="https://github.com/ErickCardoso007"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickCardoso007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCardoso007&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ErickCardoso007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="173em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCardoso007&layout=compact&langs_count=7&theme=dracula"/>
   <br />
   <br />
 </div>
