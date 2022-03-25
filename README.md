@@ -69,8 +69,18 @@
 </table>
 <br />
 <br />
+  
 
-  <h2 align="center"> 📢📢📢</h2>
+ <h2 align="center">commit statistics: ✔✔✔</h2>
+<div align="center" width="100%">
+  <a href="#">
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ErickCardoso007&hide_title=true&hide_border=true&bg_color=0d1117&color=27DD00&line=27DD00&point=fff" />
+    
+  </a>
+</div>
+</br>
+</br>
+  <h2 align="center">📢📢📢</h2>
 
 <table align="center" border="0">
   <tr>
