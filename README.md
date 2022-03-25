@@ -86,13 +86,13 @@
   <tr>
     <td>
   <h3>🤝 contact me:</h3>
-                                    <a href="mailto:d.horvattid@gmail.com" target="blank"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<a href="mailto:erickcardosofront@gmail.com">
-  <img src="https://img.shields.io/badge/erickcardosofront@gmail.com-6633cc?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;" style="max-width:100%;">
-</a>
+                                  
 <a href="https://www.linkedin.com/in/erick-cardoso-287005202/" rel="nofollow">
   <img src="https://img.shields.io/badge/-Erick%20Cardoso-6633cc?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/rafaeldcmartins" style="max-width:100%;">
+</a>
+      
+<a href="mailto:erickcardosofront@gmail.com">
+  <img src="https://img.shields.io/badge/erickcardosofront@gmail.com-6633cc?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;" style="max-width:100%;">
 </a>
 </p> 
   </td>
