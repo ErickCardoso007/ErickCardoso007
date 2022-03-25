@@ -1,36 +1,107 @@
+<div align="center">
+  <span>All Languages>>&nbsp;&nbsp;</span>
+  <span>
+    <a href="README_en.md">
+      <img src="./public/img/flags/en" height="14"> English ★★★
+    </a>
+  </span>
+  <span>&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</span>
+  <span>
+    <a href="README_hi.md">
+      <img src="./public/img/flags/hi" height="14"> Hindi ★★★
+    </a>
+  </span>
+  <span>&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</span>
+  <span>
+    <a href="README_es.md">
+      <img src="./public/img/flags/es" height="14"> Espanhol ★★☆
+    </a>
+    </span>
+  <span>&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</span>
+  <span>
+   <a href="README_ch.md">
+     <img src="./public/img/flags/ch" height="14"> Chinese ★★☆
+    </a>
+    </span>
+</div>
 
+
+<div>
 <img align="right" width="440" height="750" right="0px" src="https://i.imgur.com/jJJRSB0.png">
   
 # Hello, my name is Erick Cardoso  <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
-- 🐱‍💻Explore new technologies, techniques and solutions.
+- 🐱‍💻 Explore new technologies, techniques and solutions.
 - 🐱‍💻 Currently studying: JavaScript.
 - 🐱‍💻 Development of projects to practice the knowledge learned.
-- 🧍🏽‍♂ pronoun: He/Him
+- 🐱‍💻 Hobby: Make projects using html and css.
+- 🧍🏽‍♂  pronoun: He/Him
+  
 
 <br />
 <br />
+  
+<img align="left" width="440" height="350" right="0px" src="https://user-images.githubusercontent.com/88493966/160029014-545415c4-1048-4d86-999e-d41a286d74b7.gif"/>
 
-<a href="https://github.com/ErickCardoso007"> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ErickCardoso007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="153em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCardoso007&layout=compact&langs_count=7&theme=dracula"/>
+  
+  
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+</div>
+
+<div>
+<h2 align="center"> 🐱‍💻 My github stats: 🐱‍💻</h2>
+
+<table width="100%" border="0">
+  <tr>
+    <td>
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api?username=ErickCardoso007&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117&hide_border=true&custom_title=Erick Cardoso zz"
+        alt="Cardoso Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="center"
+        src="https://github-readme-streak-stats.herokuapp.com?user=ErickCardoso007&theme=city-lights&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700&border=25DD00&ring=00DD00&dates=34DD00&currStreakNum=DDDDDD&fire=27DD00&sideNums=03DD00&currStreakLabel=DDDDDD&sideLabels=9F9F9F"
+      />
+    </td>
+  </tr>
+</table>
 <br />
 <br />
 
+  <h2 align="center"> Click Clack Bum!</h2>
 
+<table align="center" border="0">
+  <tr>
+    <td>
+  <h3>🤝 contact me:</h3>
+                                   
 
- 
-##### 🛠 Hard Skills
-      
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;        
-
-                                
-##### 🤝 contact me:
-                                      
-<p align="left" margin-left="10px">
 <a href="erickcardosofront@gmail.com">
   <img src="https://img.shields.io/badge/erickcardosofront@gmail.com-6633cc?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:erickcardosofront@gmail.com" style="max-width:100%;">
 </a>
@@ -38,8 +109,15 @@
   <img src="https://img.shields.io/badge/-Erick%20Cardoso-6633cc?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/rafaeldcmartins" style="max-width:100%;">
 </a>
 </p> 
-
-
-
-
-<img src="https://github.com/ErickCardoso007/ErickCardoso007/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
+  </td>
+  
+ <td>
+ <h3>🛠 Hard Skills</h3>
+      
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;      
+ </td>
+</tr>
+</table>
