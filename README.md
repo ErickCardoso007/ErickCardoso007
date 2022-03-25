@@ -1,10 +1,10 @@
 
 
-
 <div>
+
 <img align="right" width="440" height="750" right="0px" src="https://i.imgur.com/jJJRSB0.png">
   
-# Hello, my name is Erick Cardoso  
+# Hello, my name is Erick Cardoso<img align="right" width="50" height="50" right="0px" src="https://user-images.githubusercontent.com/88493966/160168306-f5546098-cb8a-4cc7-a13c-1fa5137efb42.gif"/> 
 
 - 🐱‍💻 Explore new technologies, techniques and solutions.
 - 🐱‍💻 Currently studying: JavaScript.
@@ -18,6 +18,7 @@
 <br />
 <br />
 <br />
+
 <br />
 <br />
 <br />
