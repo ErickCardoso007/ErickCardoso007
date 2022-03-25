@@ -1,29 +1,4 @@
-<div align="center">
-  <span>All Languages>>&nbsp;&nbsp;</span>
-  <span>
-    <a href="README_en.md">
-      <img src="./public/img/flags/en" height="14"> English ★★★
-    </a>
-  </span>
-  <span>&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</span>
-  <span>
-    <a href="README_hi.md">
-      <img src="./public/img/flags/hi" height="14"> Hindi ★★★
-    </a>
-  </span>
-  <span>&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</span>
-  <span>
-    <a href="README_es.md">
-      <img src="./public/img/flags/es" height="14"> Espanhol ★★☆
-    </a>
-    </span>
-  <span>&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</span>
-  <span>
-   <a href="README_ch.md">
-     <img src="./public/img/flags/ch" height="14"> Chinese ★★☆
-    </a>
-    </span>
-</div>
+
 
 
 <div>
@@ -41,7 +16,7 @@
 <br />
 <br />
   
-<img align="left" width="440" height="350" right="0px" src="https://user-images.githubusercontent.com/88493966/160029014-545415c4-1048-4d86-999e-d41a286d74b7.gif"/>
+<img align="left" width="440" height="470" right="0px" src="https://user-images.githubusercontent.com/88493966/160029014-545415c4-1048-4d86-999e-d41a286d74b7.gif"/>
 
   
   
@@ -94,7 +69,7 @@
 <br />
 <br />
 
-  <h2 align="center"> Click Clack Bum!</h2>
+  <h2 align="center"> 📢📢📢</h2>
 
 <table align="center" border="0">
   <tr>
