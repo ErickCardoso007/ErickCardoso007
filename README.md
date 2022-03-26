@@ -4,18 +4,25 @@
 
 <img align="right" width="440" height="750" right="0px" src="https://i.imgur.com/jJJRSB0.png">
   
-# Hello, my name is Erick Cardoso<img align="right" width="50" height="50" right="0px" src="https://user-images.githubusercontent.com/88493966/160168306-f5546098-cb8a-4cc7-a13c-1fa5137efb42.gif"/> 
+# Hello, my name is Erick Cardoso.
+
+
 
 - 🐱‍💻 Explore new technologies, techniques and solutions.
 - 🐱‍💻 Currently studying: JavaScript.
 - 🐱‍💻 Development of projects to practice the knowledge learned.
 - 🐱‍💻 Hobby: Make projects using html and css.
 - 🧍🏽‍♂  pronoun: He/Him
+
   
 <img align="left" width="340" height="320" right="0px" src="https://user-images.githubusercontent.com/88493966/160029768-850d13cb-c025-406f-a065-f18354d639b5.gif"/>
 <br />
+<br /
+
 <br />
 <br />
+<br />
+
 <br />
 <br />
 
@@ -29,9 +36,7 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
+<br /> ❝ <i> If you don't like your destiny, don't accept it. Instead, have the courage to change him the way you want him to be. </i> ❞
 <br />
 <br />
 <br />
