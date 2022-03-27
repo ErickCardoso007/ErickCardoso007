@@ -4,7 +4,7 @@
 
 <img align="right" width="440" height="750" right="0px" src="https://i.imgur.com/jJJRSB0.png">
   
-# Hello, my name is Erick Cardoso.
+# Hello, my name is Erick Cardoso.<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 
 
