@@ -4,7 +4,7 @@
 
 <img align="right" width="440" height="750" right="0px" src="https://i.imgur.com/jJJRSB0.png">
   
-# Hello, my name is Erick Cardoso.<img width="44" height="75" src="https://c.tenor.com/j6OUcjVN4mAAAAAj/zeref-dancing.gif">
+# Hello, my name is Erick Cardoso.<img width="44" height="55" src="https://c.tenor.com/j6OUcjVN4mAAAAAj/zeref-dancing.gif">
 
 
 
