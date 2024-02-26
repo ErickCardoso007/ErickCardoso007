@@ -1,51 +1,43 @@
-<h2 align="left">Hi 👋! My name is Erick Cardoso and I'm a delevoper fullstack, from Brazil</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f1282&height=200&section=header&text=%20Hello!%20My%20name%20is%20Erick%20Cardoso.&fontSize=40&fontColor=ffffff" />
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erickcardoso007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erickcardoso007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align='center'>After three years away from the field, I am now restarting my studies to return to where I never should have left: programming. I am determined to pursue my dream of becoming a programmer. Thus, I begin my new cycle in the field, ready to embrace the challenges and opportunities it presents.</p>
+<hr>
 
-###
+<br>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
+-  👾 Explore new technologies, techniques and solutions.
+-  👾 Currently studying: JavaScript.
+-  👾 Development of projects to practice the knowledge learned.
+-  👾 Hobby: Make projects using html and css.
+-  👾 Pronoun: He/Him
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
 
-###
+  <h2 align="center">📢📢📢</h2>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
+<table align="center" border="0">
+  <tr>
+    <td>
+  <h3>🤝 Contact me</h3>
+                                  
+<a href="https://www.linkedin.com/in/erick-cardoso-287005202/" rel="nofollow">
+  <img src="https://img.shields.io/badge/-Erick%20Cardoso-6633cc?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/rafaeldcmartins" style="max-width:100%;">
+</a>
+      
 <a href="mailto:erickcardosofront@gmail.com">
   <img src="https://img.shields.io/badge/erickcardosofront@gmail.com-6633cc?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;" style="max-width:100%;">
 </a>
-
-###
+</p> 
+  </td>
+  
+ <td>
+ <h3>🛠 Hard Skills</h3>
+      
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;      
+ </td>
+</tr>
+</table>
