@@ -5,7 +5,7 @@
 <hr>
 
 <br>
-<img align='right' width='350px' height='150px' src='https://www.hqzona.com.br/wp-content/uploads/2020/09/Design-sem-nome-2-5-720x405.jpg'>
+<img align='right' width='350px' height='150px' alt='Sucking at something is the first step towards being sorta good at something.' src='https://www.hqzona.com.br/wp-content/uploads/2020/09/Design-sem-nome-2-5-720x405.jpg'>
 
 -  👾 Explore new technologies, techniques and solutions.
 -  👾 Currently studying: JavaScript.
