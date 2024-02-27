@@ -30,7 +30,7 @@
 <a href="https://www.linkedin.com/in/erick-cardoso-287005202/" rel="nofollow">
   <img src="https://img.shields.io/badge/-Erick%20Cardoso-6633cc?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/rafaeldcmartins" style="max-width:100%;">
 </a>
-    <br>  
+    
 <a href="mailto:erickcardosofront@gmail.com">
   <img src="https://img.shields.io/badge/erickcardosofront@gmail.com-6633cc?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;" style="max-width:100%;">
 </a>
