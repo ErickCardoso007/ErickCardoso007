@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f1282&height=200&section=header&text=%20Hello!%20My%20name%20is%20Erick%20Cardos!&fontSize=40&fontColor=ffffff" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f1282&height=200&section=header&text=%20Hello!%20My%20name%20is%20Erick%20Cardos.&fontSize=40&fontColor=ffffff" />
 
 <p align='center'>After three years away from the field, I am now restarting my studies to return to where I never should have left: programming. I am determined to pursue my dream of becoming a programmer. Thus, I begin my new cycle in the field, ready to embrace the challenges and opportunities it presents.</p>
 
