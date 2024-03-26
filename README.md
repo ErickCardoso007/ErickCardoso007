@@ -20,7 +20,7 @@
   <img height="180em" alt="Erick Cardoso" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickcardoso007&layout=compact&theme=dracula" />
 </p>
 <br>
-  <h2 align="center">📢📢📢</h2>
+  <h2 align="center">📢📢📢📢📢</h2>
 
 <table align="center" border="0">
   <tr>
